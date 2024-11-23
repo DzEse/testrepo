@@ -1,5 +1,5 @@
-# testrepo
+# IBM Cognos Analytics
 
 ## editing the file
 
-its a markdown file in this repository
+Peer-Graded Assignment: Part A - Building a dashboard with IBM Cognos Analytics
